@@ -1,6 +1,6 @@
 ![openfans](/images/openfans.png)&nbsp;&nbsp;&nbsp;&nbsp;![amatfan.png](/images/amatfan.png)
 
-# ★ 树莓派 4B Debian Pi Aarch 64位系统 2.0 ★
+# ★ 树莓派 4B Debian Pi Aarch 64位系统 2.0 ★【个人收藏版】
 
 # ★★★★★★ 2019.07.06 - 全球首发 ！！★★★★★★
 
